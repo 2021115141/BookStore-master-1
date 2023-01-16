@@ -1,0 +1,26 @@
+<style type="text/css">
+                        
+.panel-blue{
+    background:#5bc0de;    
+}
+.panel-tw{
+    background:#5bc0de;    
+}
+.panel-fb {
+    background:#3b5998    
+}
+.panel-in{
+    background:#5cb85c;    
+}
+.panel-content .fa {
+    color:#ffffff;    
+}
+.panel-dl{
+   background:#428bca; 
+}
+.panel-content p{
+    font-weight:bold !important; 
+    color:#FFFFFF;
+}
+                    
+</style>
